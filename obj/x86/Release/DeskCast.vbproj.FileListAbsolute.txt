@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\DeskCast\bin\DeskCast.exe
+C:\Users\USER\Desktop\DeskCast\bin\WebSocket4Net.dll
+C:\Users\USER\Desktop\DeskCast\obj\x86\Release\DeskCast.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\DeskCast\obj\x86\Release\DeskCast.Form1.resources
+C:\Users\USER\Desktop\DeskCast\obj\x86\Release\DeskCast.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\DeskCast\obj\x86\Release\DeskCast.exe
+C:\Users\USER\Documents\DeskCast\bin\DeskCast.exe
+C:\Users\USER\Documents\DeskCast\bin\WebSocket4Net.dll
+C:\Users\USER\Documents\DeskCast\obj\x86\Release\DeskCast.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\DeskCast\obj\x86\Release\DeskCast.Form1.resources
+C:\Users\USER\Documents\DeskCast\obj\x86\Release\DeskCast.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\DeskCast\obj\x86\Release\DeskCast.exe
